@@ -52,8 +52,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - **Text Editor/IDE**: (Optional: Mention the editor or IDE you used, such as Visual Studio Code, Sublime Text, or GoLand)
 - **Version Control Hosting**: GitHub
 
-##Authors
+## Authors
 - Alan Cyril
 
-##Acknowledgments
+## Acknowledgments
 Hat tip to anyone whose code was used Inspiration etc.
