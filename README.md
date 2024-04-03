@@ -34,12 +34,12 @@ go run main.go
 
 Follow the prompts to view the menu, place orders, and generate bills.
 
-##Code Structure
+## Code Structure
 - main.go: Contains the main program logic including ordering, modifying orders, and generating bills.
 - menu.go: Defines the menu items and functions to print the menu.
 - order.go: Contains functions related to placing orders, modifying orders, and generating bills.
 
-##Contributing
+## Contributing
 Contributions are welcome! If you have any suggestions, bug fixes, or new features to propose, feel free to open an issue or submit a pull request.
 
 ##License
