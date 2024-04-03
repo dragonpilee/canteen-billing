@@ -24,24 +24,25 @@ Make sure you have Go installed on your machine. You can download and install it
 
 git clone https://github.com/your_username/canteen-management.git
 
-Navigate to the project directory:
+2. Navigate to the project directory:
 
 cd canteen-management
-Usage
-Compile and run the Go program:
+
+3.Compile and run the Go program:
 
 go run main.go
+
 Follow the prompts to view the menu, place orders, and generate bills.
 
-Code Structure
-main.go: Contains the main program logic including ordering, modifying orders, and generating bills.
-menu.go: Defines the menu items and functions to print the menu.
-order.go: Contains functions related to placing orders, modifying orders, and generating bills.
+##Code Structure
+- main.go: Contains the main program logic including ordering, modifying orders, and generating bills.
+- menu.go: Defines the menu items and functions to print the menu.
+- order.go: Contains functions related to placing orders, modifying orders, and generating bills.
 
-Contributing
+##Contributing
 Contributions are welcome! If you have any suggestions, bug fixes, or new features to propose, feel free to open an issue or submit a pull request.
 
-License
+##License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Tech Stack
@@ -51,8 +52,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - **Text Editor/IDE**: (Optional: Mention the editor or IDE you used, such as Visual Studio Code, Sublime Text, or GoLand)
 - **Version Control Hosting**: GitHub
 
-Authors
-Alan Cyril
+##Authors
+- Alan Cyril
 
-Acknowledgments
+##Acknowledgments
 Hat tip to anyone whose code was used Inspiration etc.
