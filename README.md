@@ -42,7 +42,7 @@ Follow the prompts to view the menu, place orders, and generate bills.
 ## Contributing
 Contributions are welcome! If you have any suggestions, bug fixes, or new features to propose, feel free to open an issue or submit a pull request.
 
-##License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Tech Stack
