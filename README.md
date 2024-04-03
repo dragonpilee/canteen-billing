@@ -45,11 +45,11 @@ License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Tech Stack
-Programming Language: Go
-Version Control: Git
-Dependencies Management: Go Modules
-Text Editor/IDE: (Optional: Mention the editor or IDE you used, such as Visual Studio Code, Sublime Text, or GoLand)
-Version Control Hosting: GitHub
+**Programming Language**: Go
+**Version Control**: Git
+**Dependencies Management**: Go Modules
+**Text Editor/IDE**: (Optional: Mention the editor or IDE you used, such as Visual Studio Code, Sublime Text, or GoLand)
+**Version Control Hosting**: GitHub
 
 Authors
 Alan Cyril
